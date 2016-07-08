@@ -1,0 +1,5 @@
+File script(String location) {
+    project.file(location)
+}
+
+script('somewhere')
